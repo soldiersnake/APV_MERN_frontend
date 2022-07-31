@@ -12,7 +12,7 @@ const AdminNav = () => {
         <Link
             to='/admin/cambiar-password'
             className='font-bold uppercase text-gray-500'
-        >Cambiar Password
+        >Cambiar Password.
         </Link>
     </nav>
   )
